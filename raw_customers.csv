@@ -1,0 +1,31 @@
+customer_id,customer_name,email,phone,city,country,gender,status,signup_date
+1,Rahul Sharma,rahul.sharma@email.com,+91-9876543210,Mumbai,IN,male,active,15-03-2021
+2,Priya Verma,priya.verma@email.com,98765 43211,Delhi,IND,Female,act,2021.04.22
+3,Amit Singh,,9876543212,Bangalore,India,M,Active,20-05-2021
+4,Sneha Patel,sneha.patel@email.com,+91 9876543213,Chennai,IN,f,1,06/15/2021
+5,Rahul Sharma,rahul.sharma@email.com,9876543210,Mumbai,India,Male,Active,2021-03-15
+6,,rohan.mehta@email.com,09876543214,Pune,IND,,inactive,25-07-2021
+7,Divya Nair,divya.nair@email.com,(98765)43215,Hyderabad,India,Female,Inactive,2021.08.10
+8,Karan Joshi,karan.joshi@email.com,987-654-3216,Kolkata,IN,m,pending,09/05/2021
+9,Meera Iyer,meera.iyer@email.com,9876543217,Ahmedabad,INDIA,woman,Pending,12-10-2021
+10,Suresh Kumar,suresh.kumar@email.com,+919876543218,Jaipur,India,Male,yes,2021.11.30
+11,Ananya Reddy,ananya.reddy@email.com,9876543219,Lucknow,IN,F,no,20/01/2022
+12,Vikram Bose,vikram.bose@email.com,+91 98765 43220,Bhopal,IND,Man,wait,05-02-2022
+13,Pooja Das,,9876543221,Surat,India,,Active,2022.03.18
+14,Nikhil Tiwari,nikhil.tiwari@email.com,9876543222,Nagpur,IN,male,active,22-04-2022
+15,Anjali Gupta,anjali.gupta@email.com,987 654 3223,Patna,India,Female,inactive,06/12/2022
+16,Ravi Pillai,ravi.pillai@email.com,+91-9876543224,Indore,IND,m,1,18-06-2022
+17,Swati Shah,swati.shah@email.com,9876543225,Vadodara,India,F,Active,2022.07.29
+18,Manish Rao,manish.rao@email.com,9876543226,Coimbatore,IN,Male,act,09/08/2022
+19,Deepa Nambiar,,+919876543227,Visakhapatnam,India,female,Pending,30-09-2022
+20,Akash Verma,akash.verma@email.com,9876543228,Madurai,IND,M,no,15/11/2022
+21,Priya Verma,priya.verma@email.com,9876543211,Delhi,India,Female,Active,2021-04-22
+22,Pooja Das,pooja.das2@email.com,9876543229,Surat,India,Female,active,2022-03-18
+23,Ramesh Nair,ramesh.nair@email.com,+91-9876543230,Kochi,IN,male,Active,01-12-2022
+24,Lakshmi Pillai,lakshmi.pillai@email.com,9876543231,Thiruvananthapuram,India,woman,inactive,2023.01.14
+25,Arun Mathew,arun.mathew@email.com,987 654 3232,Bengaluru,IND,Man,1,28/02/2023
+26,Nisha Kapoor,,+91 9876543233,Noida,India,,pending,15-03-2023
+27,Sanjay Dubey,sanjay.dubey@email.com,9876543234,Gurgaon,IN,M,wait,2023.04.05
+28,Kavya Reddy,kavya.reddy@email.com,(987)6543235,Hyderabad,India,F,Active,20/05/2023
+29,Harish Menon,harish.menon@email.com,+919876543236,Thrissur,IND,male,yes,10-06-2023
+30,Uma Shankar,uma.shankar@email.com,9876543237,Varanasi,India,Male,0,2023.07.22
